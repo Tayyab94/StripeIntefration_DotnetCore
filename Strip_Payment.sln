@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strip_Payment", "Strip_Payment\Strip_Payment.csproj", "{5E05366A-FA5D-44F1-A6C8-000F2F1CA43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E05366A-FA5D-44F1-A6C8-000F2F1CA43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E05366A-FA5D-44F1-A6C8-000F2F1CA43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E05366A-FA5D-44F1-A6C8-000F2F1CA43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E05366A-FA5D-44F1-A6C8-000F2F1CA43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA56E39-0EC9-4EEB-82A8-83BBD4DE3733}
+	EndGlobalSection
+EndGlobal
